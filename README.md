@@ -2,7 +2,7 @@
   <img src="./banner.svg" alt="Venkat Sundaraneedi — Rust and Solana systems engineer" width="100%">
 </p>
 
-Rust and Solana systems engineer. I build programs that are provable, not just deployable.
+Rust and Solana systems engineer.
 
 Hyderabad, India · [0xgsvs.dev](https://0xgsvs.dev) · [venkat.subrahmanyam.34@gmail.com](mailto:venkat.subrahmanyam.34@gmail.com)
 
