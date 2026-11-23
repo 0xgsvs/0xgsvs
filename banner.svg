@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Venkat Sundaraneedi — Rust and Solana systems engineer">
+  <rect width="1200" height="300" fill="#f2ecdd"/>
+  <rect x="0" y="0" width="1200" height="1.5" fill="#17140f"/>
+  <rect x="0" y="298.5" width="1200" height="1.5" fill="#17140f"/>
+
+  <g font-family="'Spline Sans Mono', ui-monospace, Menlo, Consolas, monospace" fill="#6b6353" font-size="15" letter-spacing="2">
+    <text x="48" y="46">VENKAT(1)</text>
+    <text x="600" y="46" text-anchor="middle">General Commands Manual</text>
+    <text x="1152" y="46" text-anchor="end">VENKAT(1)</text>
+  </g>
+  <rect x="48" y="62" width="1104" height="1" fill="#c9bfa8"/>
+
+  <text x="48" y="92" font-family="'Spline Sans Mono', ui-monospace, Menlo, Consolas, monospace" font-size="22" fill="#b03a22">◆</text>
+  <text x="78" y="93" font-family="'Spline Sans Mono', ui-monospace, Menlo, Consolas, monospace" font-size="16" letter-spacing="3" fill="#4b4539">0xgsvs.dev</text>
+
+  <text x="48" y="165" font-family="'Bricolage Grotesque', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="54" font-weight="700" fill="#17140f">Venkat Sundaraneedi</text>
+
+  <text x="48" y="205" font-family="'Spline Sans Mono', ui-monospace, Menlo, Consolas, monospace" font-size="17" letter-spacing="4" fill="#b03a22">RUST / SOLANA SYSTEMS ENGINEER</text>
+
+  <text x="48" y="242" font-family="'Spline Sans Mono', ui-monospace, Menlo, Consolas, monospace" font-size="16" fill="#4b4539">I build programs that are provable, not just deployable.</text>
+
+  <g font-family="'Spline Sans Mono', ui-monospace, Menlo, Consolas, monospace" font-size="13" fill="#6b6353">
+    <text x="48" y="278">HYDERABAD, IN</text>
+    <text x="600" y="278" text-anchor="middle">GITHUB.COM/0XGSVS</text>
+    <text x="1152" y="278" text-anchor="end">0XGSVS.DEV</text>
+  </g>
+</svg>
